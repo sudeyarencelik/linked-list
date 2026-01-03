@@ -1,4 +1,4 @@
-
+**2310206007 SUDE YAREN ÇELİK BİLGİSAYAR MÜHENDİSLİĞİ 2. ÖĞRETİM**
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -75,7 +75,7 @@ void deleteNode(struct Node** head, int key) {
     }
 
     if (temp == NULL) {
-        printf("Eleman bulunamad�.\n");
+        printf("Eleman bulunamadý.\n");
         return;
     }
 
@@ -114,3 +114,4 @@ int main() {
 
     return 0;
 }
+
